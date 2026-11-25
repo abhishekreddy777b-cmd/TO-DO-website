@@ -1,0 +1,6 @@
+{
+  "name": "My Task Manager",
+  "description": "A clean, modern TO-DO list web application for managing daily Personal, College, and Work tasks with full CRUD functionality and browser LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
